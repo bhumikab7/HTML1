@@ -1,0 +1,202 @@
+<html>
+<head>
+</head>
+
+<body>
+	<table width="100%">
+			<tr>
+			<td align="right">
+				 <a href="#">Home</a> &nbsp;&nbsp;&nbsp;
+				 <a href="#">Watch video</a> &nbsp;&nbsp;&nbsp;
+				 <a href="#">Demo pages</a> &nbsp;&nbsp;&nbsp;
+				<a href="#">Blocks</a> &nbsp;&nbsp;&nbsp;
+				<button>Buy now</button>
+			</td>
+			</tr>
+	
+	</table>
+<br>
+	<table width="100%">
+		<tr>
+			<td >
+				<img src="img/a.jpg" width="100%" height="800px"/>
+			 </td>
+		</tr>
+	</table>
+
+	<table width="70%" align="center">
+		<tr>
+		<td>
+			<h1>Our Jounral</h1>
+		</td>
+		</tr>
+
+		<tr>
+		<td>
+			<p>Lorem ipsum dolor sit amet,consectetur adipisicing elit.<br> Ex itaque laboriosam quam, consequuntur vero officiis molestias, inventore repellendus.</p>
+		</td>				
+		</tr>
+	</table>
+	<table width="70%" align="center" border="1px">
+		<tr>
+			<td width="33.33%">
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fuga ullam expedita ex eos qui autem.<br>
+<a href="#">read more</a>
+			</td>
+
+			<td width="33.33%"><img src="img/b.jpg" width="100%" />
+			</td>
+
+			<td width="33.33%">
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fuga ullam expedita ex eos qui autem.<br>
+<a href="#">read more</a>
+			</td>
+		</tr>
+		<tr>
+			<td width="33.33%"><img src="img/c.jpg" width="100%" />		
+			</td>
+
+			<td width="33.33%">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fuga ullam expedita ex eos qui autem.<br>
+<a href="#">read more</a>
+			</td>
+
+			<td width="33.33%"><img src="img/d.jpg" width="100%" />
+			</td>
+		</tr>	
+	</table>
+		<br>
+		<br>
+	<table width="50%" align="center">
+		<tr>
+			<td>
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis quam et quasi, dignissimos culpa rerum non corporis neque fuga nihil? Illo iure, nesciunt sunt fugiat vero tempora aspernatur iste, repudiandae? Molestias qui commodi, ut rerum recusandae, fugit cumque suscipit dolorem tenetur dolore, cupiditate voluptatibus. Mollitia dolorum, quae, doloribus, itaque dignissimos veritatis a amet aliquid cum veniam minus. Repudiandae, facilis, delectus?</p>
+			</td>
+		</tr>
+	<table width="50%" align="center">
+	</table>
+	<br>
+	<table width="100%">
+		<tr>
+			<td>
+				<img src="img/s.png" width="100%" height="400px"/>
+			</td>
+		</tr>
+
+	</table>
+	<br>
+	<br>
+	<br>
+	<table width="70%" align="center" border="1px">
+		<tr>
+			<td width="33.33%" bgcolor="green" cellspacing="20px">
+				<h2>Southern countries</h2>
+			<br>
+				<p>Lorem ipsum dolor amet, consecte tempor incididunt ut labore et dolore tumber tur adipisicing elit.</p>
+			<br>
+			<a href="#">Read more</a>&nbsp;&nbsp;&nbsp;
+
+			</td>
+		
+			<td width="33.33%" bgcolor="pink">
+				<h2>Nordic countries</h2>
+			<br>
+				<p>Lorem ipsum dolor amet, consecte tempor incididunt ut labore et dolore tumber tur adipisicing elit.</p>
+			<br>
+			<a href="#">Read more</a>&nbsp;&nbsp;&nbsp;
+			</td>
+			
+			<td width="33.33%" bgcolor="white">
+				<h2>African countries</h2>
+			<br>
+				<p>Lorem ipsum dolor amet, consecte tempor incididunt ut labore et dolore tumber tur adipisicing elit.</p>
+			<br>
+			<a href="#">Read more</a>&nbsp;&nbsp;&nbsp;
+
+			</td>
+		</tr>
+	</table>
+	<br>
+	<br>
+	<table width="40%" align="center">
+		<tr>
+			<td>
+				<p><font face:"arial">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur facilis expedita cum iste voluptate itaque doloribus molestias numquam natus voluptates, molestiae tempora praesentium ratione dicta laudantium, excepturi voluptatibus, assumenda repellendus!</font></p>
+
+			</td>
+		</tr>
+	</table>
+	<br>
+	<br>
+
+	<table width="70%" align="center">
+		<tr>
+			<td width="33.33%">
+			<h2>We offer different ways to travel</h2>
+			<br>
+			<p>Click any text to edit or style it. Select text to insert a link. Click blue "Gear" icon in the top right corner to hide/show buttons, text, title and change the block background.</p>
+			<br>
+			<button>corporate html template</button>
+			</td>
+		
+		
+			<td width="33.33%">
+			<img src="img/e.jpg" width="100%">
+			<h2>Travel by air</h2>
+			<br>
+			lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab cupiditate est eveniet.
+			<br>
+			<a href="#">Read more</a>
+			</td>
+
+
+			<td width="33.33%">
+			<img src="img/f.jpg" width="100%">
+			<h2>Travel by air</h2>
+			<br>
+			Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab cupiditate est eveniet.
+			<br>
+			<a href="#">Read more</a>
+			</td>
+	</table>
+<br>
+<br>
+<br>
+<br>
+		</tr>
+	<table width="50%" align="center">
+		<tr>
+		<td>
+			<h1 align="center">Read Our Blog</h1>
+			<tb><p align="center">Lorem Ipsum dolor sit amet, consectetur adipisicing elit. Officia officiis possimus tempore veniam iste hic qui corrupti explicabo at error totam.</p></tb>
+		</td>
+		</tr>
+	
+		<table width="70%" align="center" border="1px">
+		<tr>
+
+			<td width="33.33%"><img src="img/b.jpg" width="100%" />
+			<p>lorem ipsum dolor sit amet, consectetur adipisicing elit. Fuga ullam expedita ex eos qui autem.</p><br>
+<a href="#">read more</a>&nbsp;&nbsp;&nbsp;
+			</td>
+
+			<td width="33.33%"><img src="img/c.jpg" width="100%" />
+			<p>lorem ipsum dolor sit amet, consectetur adipisicing elit. Fuga ullam expedita ex eos qui autem.</p><br>
+<a href="#">read more</a>&nbsp;&nbsp;&nbsp;
+			</td>
+		<td width="33.33%"><img src="img/c.jpg" width="100%" />
+			<p>lorem ipsum dolor sit amet, consectetur adipisicing elit. Fuga ullam expedita ex eos qui autem.</p><br>
+<a href="#">read more</a>&nbsp;&nbsp;&nbsp;
+			</td>
+
+		</tr>
+		</table>
+	<table width="100%">
+		<tr>
+		<td>
+			<img src="img/j.png"  width="100%" height="400px"/>
+			</td>
+		</tr>
+	</table>
+
+</body>
+</html>

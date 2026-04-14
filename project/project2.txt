@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Project</title>
+</head>
+<body>
+    <table border="1px" align="center" width="60%" cellpadding="10" cellspacing="0">
+        <tr>
+            <td id="abc"><img src="image/image1.png"/ width="100%"></td>
+            <td>
+                <a href="#abc">Home</a> &nbsp;&nbsp;&nbsp;
+                <a href="#def">About us</a> &nbsp;&nbsp;&nbsp;
+                <a href="#ghi">Skill</a> &nbsp;&nbsp;&nbsp;    
+                <a href="#jkl">Project</a> &nbsp;&nbsp;&nbsp;
+                <a href="#mno">Education</a> &nbsp;&nbsp;&nbsp;
+                <a href="#pqr">Contact</a> &nbsp;&nbsp;&nbsp;
+            </td>
+            <td>
+                <button>Hire Me!</button>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2" width="40px"> Hello I'm<br> 
+                <font color="red">Your name</font><br>
+                <font color="blue">Your field</font><br>
+                <p>Lorem ipsum dolor sit amet,consectetur adipisicing elit.<br> Ex itaque laboriosam quam, consequuntur vero officiis molestias, inventore repellendus.</p>
+</p>
+                </td>
+                <td>
+                    <img src="image/photo.png" width="100%"/>
+                </td> 
+                <tr>
+                    <td align="right" colspan="3">
+                        Welcome to my portfilo,check my latest projects
+                    </td>
+                </tr>
+                <tr>
+                    <td align="center" colspan="3" id="def">
+                       <font color="blue">About me</font> 
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <img src="image/photo.png">
+                        <td colspan="2"><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam ab nesciunt quisquam veritatis, dignissimos rem iusto quam voluptatum sunt nostrum aperiam illo vitae cupiditate tenetur facere sapiente sed. Nulla, eligendi!
+                        Ullam veniam hic officia eligendi, quo vitae commodi ipsa quas magni, eius iste tempora eveniet quisquam maiores dolorem. Dignissimos ratione doloremque ipsa cumque, omnis dolore quos esse sunt commodi vel.
+                    </td>
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="3" align="center" id="ghi">
+                        <font color="blue">My skill</font>
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="3" align="center">
+                        <img src="image/image2.png"/ width="100%">
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="3" align="center" id="jkl">
+                        <font color="blue">Projects</font>
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="3" align="center" >
+                        <img src="image/image3.png"/ width="100%">
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="3" align="center" id="mno">
+                        <font color="blue">Education</font>
+                    </td>
+                </tr>
+                <tr>
+                    <td align="center">
+                            10<sup>th</sup>SSC<br>
+                        kasturba vidhyabhavan<br>
+                        I compete SSC in year 2020-2021
+                    </td>
+                        <td align="center">
+                            12 <sup>th</sup>HSC<br>
+                            kasturba vidhyabhavan<br>
+                        I compete SSC in year 2022-2023
+
+                        </td>
+                        <td align="center">
+                            Degree<br>
+                            Vidhyadeep University<br>
+                            running Diploma Computer Engineering
+                        </td>
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="3" align="center">
+                        <font color="blue">Certified courses</font>
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="2" align="center">
+                        courses<br>
+                        GLM in Red & White Multimedia Education
+                    </td>
+                    <td align="center">
+                        courses<br>
+                        Master in Full Stack Web Developer<br>
+                        Red & White Multimedia Education
+                    </td>   
+                </tr>
+                <tr>
+                    <td colspan="3" align="center">
+                        <font color="blue">Contact Us</font>
+                    </td>
+                </tr>
+                <tr align="center" id="pqr">
+                    <td>
+                        mobile no:- +91 0123456789
+                    </td>
+                    <td>
+                        email id:- xyz12@gmail.com
+                    </td>
+                    <td>
+                        linkdin id:- xyz12
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <img src="image/image4.png"/ width="100%">
+                    </td>
+                    <td align="center">
+                        About us<br>
+                        Home<br>
+                        About Me<br>
+                        Skill<br>
+                        Project<br>
+                        Education
+                    </td>
+                    <td align="center">
+                        Contact Me<br><br>
+                        Mobile <br>+91 0123456789<br>
+                       Email<br> xyz12@gmail.com<br>
+                       Linkdin<br>xyz12
+
+
+                    </td>
+                </tr>
+        </table>
+</body>
+</html>
